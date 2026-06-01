@@ -1,0 +1,761 @@
+[
+    {
+        "id": "1",
+        "site_name_en": "Google",
+        "site_name_fa": "گوگل",
+        "category": "Search Engine",
+        "keywords": [
+            "search",
+            "google",
+            "web",
+            "main"
+        ],
+        "url": "https://www.google.com",
+        "click_count": 1
+    },
+    {
+        "id": "2",
+        "site_name_en": "Gmail",
+        "site_name_fa": "جیمیل",
+        "category": "Email",
+        "keywords": [
+            "email",
+            "gmail",
+            "mail",
+            "google"
+        ],
+        "url": "https://mail.google.com",
+        "click_count": 0
+    },
+    {
+        "id": "3",
+        "site_name_en": "Google Maps",
+        "site_name_fa": "نقشه گوگل",
+        "category": "Map & Navigation",
+        "keywords": [
+            "maps",
+            "navigation",
+            "google",
+            "location"
+        ],
+        "url": "https://maps.google.com",
+        "click_count": 0
+    },
+    {
+        "id": "4",
+        "site_name_en": "YouTube",
+        "site_name_fa": "یوتیوب",
+        "category": "Video Platform",
+        "keywords": [
+            "video",
+            "youtube",
+            "streaming",
+            "entertainment"
+        ],
+        "url": "https://www.youtube.com",
+        "click_count": 0
+    },
+    {
+        "id": "5",
+        "site_name_en": "Google Translate",
+        "site_name_fa": "مترجم گوگل",
+        "category": "Translation",
+        "keywords": [
+            "translate",
+            "google",
+            "language",
+            "dictionary"
+        ],
+        "url": "https://translate.google.com",
+        "click_count": 0
+    },
+    {
+        "id": "6",
+        "site_name_en": "Google Drive",
+        "site_name_fa": "گوگل درایو",
+        "category": "Cloud Storage",
+        "keywords": [
+            "drive",
+            "storage",
+            "google",
+            "cloud"
+        ],
+        "url": "https://drive.google.com",
+        "click_count": 0
+    },
+    {
+        "id": "7",
+        "site_name_en": "Google Play",
+        "site_name_fa": "گوگل پلی",
+        "category": "App Store",
+        "keywords": [
+            "play",
+            "app",
+            "android",
+            "google"
+        ],
+        "url": "https://play.google.com",
+        "click_count": 1
+    },
+    {
+        "id": "8",
+        "site_name_en": "Wikipedia",
+        "site_name_fa": "ویکی‌پدیا",
+        "category": "Encyclopedia",
+        "keywords": [
+            "wiki",
+            "encyclopedia",
+            "knowledge",
+            "reference"
+        ],
+        "url": "https://www.wikipedia.org",
+        "click_count": 0
+    },
+    {
+        "id": "9",
+        "site_name_en": "Microsoft Office",
+        "site_name_fa": "آفیس مایکروسافت",
+        "category": "Office Suite",
+        "keywords": [
+            "office",
+            "microsoft",
+            "document",
+            "word",
+            "excel"
+        ],
+        "url": "https://www.office.com",
+        "click_count": 1
+    },
+    {
+        "id": "10",
+        "site_name_en": "Zoom",
+        "site_name_fa": "زوم",
+        "category": "Video Conferencing",
+        "keywords": [
+            "zoom",
+            "meeting",
+            "video",
+            "conference"
+        ],
+        "url": "https://zoom.us",
+        "click_count": 1
+    },
+    {
+        "id": "11",
+        "site_name_en": "WhatsApp Web",
+        "site_name_fa": "واتساپ وب",
+        "category": "Messaging",
+        "keywords": [
+            "whatsapp",
+            "chat",
+            "messenger",
+            "web"
+        ],
+        "url": "https://web.whatsapp.com",
+        "click_count": 0
+    },
+    {
+        "id": "12",
+        "site_name_en": "Telegram Web",
+        "site_name_fa": "تلگرام وب",
+        "category": "Messaging",
+        "keywords": [
+            "telegram",
+            "chat",
+            "messenger",
+            "web"
+        ],
+        "url": "https://web.telegram.org",
+        "click_count": 0
+    },
+    {
+        "id": "13",
+        "site_name_en": "Bale",
+        "site_name_fa": "بله",
+        "category": "Messaging",
+        "keywords": [
+            "bale",
+            "messenger",
+            "iranian",
+            "chat"
+        ],
+        "url": "https://bale.ai",
+        "click_count": 0
+    },
+    {
+        "id": "14",
+        "site_name_en": "Eitaa",
+        "site_name_fa": "ایتا",
+        "category": "Messaging",
+        "keywords": [
+            "eitaa",
+            "messenger",
+            "iranian",
+            "chat"
+        ],
+        "url": "https://eitaa.com",
+        "click_count": 0
+    },
+    {
+        "id": "15",
+        "site_name_en": "Rubika",
+        "site_name_fa": "روبیکا",
+        "category": "Messaging",
+        "keywords": [
+            "rubika",
+            "messenger",
+            "iranian",
+            "chat"
+        ],
+        "url": "https://rubika.ir",
+        "click_count": 0
+    },
+    {
+        "id": "16",
+        "site_name_en": "Soroush+",
+        "site_name_fa": "سروش پلاس",
+        "category": "Messaging",
+        "keywords": [
+            "soroush",
+            "messenger",
+            "iranian",
+            "chat"
+        ],
+        "url": "https://soroush-plus.ir",
+        "click_count": 0
+    },
+    {
+        "id": "17",
+        "site_name_en": "Aparat",
+        "site_name_fa": "آپارات",
+        "category": "Video Sharing",
+        "keywords": [
+            "video",
+            "aparat",
+            "iranian",
+            "youtube alternative"
+        ],
+        "url": "https://www.aparat.com",
+        "click_count": 0
+    },
+    {
+        "id": "18",
+        "site_name_en": "Namasha",
+        "site_name_fa": "نماشا",
+        "category": "Video Sharing",
+        "keywords": [
+            "video",
+            "namasha",
+            "iranian",
+            "streaming"
+        ],
+        "url": "https://www.namasha.com",
+        "click_count": 1
+    },
+    {
+        "id": "19",
+        "site_name_en": "Filimo",
+        "site_name_fa": "فیلیمو",
+        "category": "Movie Streaming",
+        "keywords": [
+            "film",
+            "movie",
+            "streaming",
+            "iranian"
+        ],
+        "url": "https://www.filimo.com",
+        "click_count": 1
+    },
+    {
+        "id": "20",
+        "site_name_en": "Telewebion",
+        "site_name_fa": "تلوبیون",
+        "category": "TV Streaming",
+        "keywords": [
+            "tv",
+            "live",
+            "streaming",
+            "iranian"
+        ],
+        "url": "https://www.telewebion.com",
+        "click_count": 0
+    },
+    {
+        "id": "21",
+        "site_name_en": "Filmnet",
+        "site_name_fa": "فیلم‌نت",
+        "category": "Movie Streaming",
+        "keywords": [
+            "film",
+            "movie",
+            "streaming",
+            "iranian"
+        ],
+        "url": "https://filmnet.ir",
+        "click_count": 0
+    },
+    {
+        "id": "22",
+        "site_name_en": "Snapp",
+        "site_name_fa": "اسنپ",
+        "category": "Ride-hailing",
+        "keywords": [
+            "taxi",
+            "ride",
+            "snapp",
+            "transport"
+        ],
+        "url": "https://snapp.ir",
+        "click_count": 0
+    },
+    {
+        "id": "23",
+        "site_name_en": "Tapsi",
+        "site_name_fa": "تپسی",
+        "category": "Ride-hailing",
+        "keywords": [
+            "taxi",
+            "ride",
+            "tapsi",
+            "transport"
+        ],
+        "url": "https://tapsi.ir",
+        "click_count": 0
+    },
+    {
+        "id": "24",
+        "site_name_en": "Alibaba",
+        "site_name_fa": "علی‌بابا",
+        "category": "Travel",
+        "keywords": [
+            "flight",
+            "train",
+            "bus",
+            "travel",
+            "hotel"
+        ],
+        "url": "https://www.alibaba.ir",
+        "click_count": 0
+    },
+    {
+        "id": "25",
+        "site_name_en": "Digikala",
+        "site_name_fa": "دیجی‌کالا",
+        "category": "E-commerce",
+        "keywords": [
+            "shop",
+            "digikala",
+            "online store",
+            "buy"
+        ],
+        "url": "https://www.digikala.com",
+        "click_count": 0
+    },
+    {
+        "id": "26",
+        "site_name_en": "Torob",
+        "site_name_fa": "ترب",
+        "category": "Price Comparison",
+        "keywords": [
+            "torob",
+            "shopping",
+            "price",
+            "compare"
+        ],
+        "url": "https://torob.com",
+        "click_count": 0
+    },
+    {
+        "id": "27",
+        "site_name_en": "Divar",
+        "site_name_fa": "دیوار",
+        "category": "Classifieds",
+        "keywords": [
+            "divar",
+            "buy",
+            "sell",
+            "classifieds",
+            "secondhand"
+        ],
+        "url": "https://divar.ir",
+        "click_count": 0
+    },
+    {
+        "id": "28",
+        "site_name_en": "Sheypoor",
+        "site_name_fa": "شیپور",
+        "category": "Classifieds",
+        "keywords": [
+            "sheypoor",
+            "buy",
+            "sell",
+            "classifieds"
+        ],
+        "url": "https://www.sheypoor.com",
+        "click_count": 0
+    },
+    {
+        "id": "29",
+        "site_name_en": "Bank Melli Iran",
+        "site_name_fa": "بانک ملی ایران",
+        "category": "Banking",
+        "keywords": [
+            "bank",
+            "melli",
+            "iran",
+            "finance"
+        ],
+        "url": "https://www.bmi.ir",
+        "click_count": 0
+    },
+    {
+        "id": "30",
+        "site_name_en": "Bank Mellat",
+        "site_name_fa": "بانک ملت",
+        "category": "Banking",
+        "keywords": [
+            "bank",
+            "mellat",
+            "iran",
+            "finance"
+        ],
+        "url": "https://www.bankmellat.ir",
+        "click_count": 0
+    },
+    {
+        "id": "31",
+        "site_name_en": "Bank Saderat Iran",
+        "site_name_fa": "بانک صادرات ایران",
+        "category": "Banking",
+        "keywords": [
+            "bank",
+            "saderat",
+            "iran",
+            "finance"
+        ],
+        "url": "https://www.bank-saderat.ir",
+        "click_count": 0
+    },
+    {
+        "id": "32",
+        "site_name_en": "Bank Sepah",
+        "site_name_fa": "بانک سپه",
+        "category": "Banking",
+        "keywords": [
+            "bank",
+            "sepah",
+            "iran",
+            "finance"
+        ],
+        "url": "https://www.banksepah.ir",
+        "click_count": 0
+    },
+    {
+        "id": "33",
+        "site_name_en": "ISNA",
+        "site_name_fa": "ایسنا",
+        "category": "News",
+        "keywords": [
+            "news",
+            "isna",
+            "iran",
+            "agency"
+        ],
+        "url": "https://www.isna.ir",
+        "click_count": 0
+    },
+    {
+        "id": "34",
+        "site_name_en": "IRNA",
+        "site_name_fa": "ایرنا",
+        "category": "News",
+        "keywords": [
+            "news",
+            "irna",
+            "iran",
+            "agency"
+        ],
+        "url": "https://www.irna.ir",
+        "click_count": 0
+    },
+    {
+        "id": "35",
+        "site_name_en": "Fars News",
+        "site_name_fa": "خبرگزاری فارس",
+        "category": "News",
+        "keywords": [
+            "news",
+            "fars",
+            "iran",
+            "agency"
+        ],
+        "url": "https://www.farsnews.ir",
+        "click_count": 0
+    },
+    {
+        "id": "36",
+        "site_name_en": "Mehr News",
+        "site_name_fa": "خبرگزاری مهر",
+        "category": "News",
+        "keywords": [
+            "news",
+            "mehr",
+            "iran",
+            "agency"
+        ],
+        "url": "https://www.mehrnews.com",
+        "click_count": 0
+    },
+    {
+        "id": "37",
+        "site_name_en": "Tabnak",
+        "site_name_fa": "تابناک",
+        "category": "News",
+        "keywords": [
+            "news",
+            "tabnak",
+            "iran",
+            "media"
+        ],
+        "url": "https://www.tabnak.ir",
+        "click_count": 0
+    },
+    {
+        "id": "38",
+        "site_name_en": "Entekhab",
+        "site_name_fa": "انتخاب",
+        "category": "News",
+        "keywords": [
+            "news",
+            "entekhab",
+            "iran",
+            "media"
+        ],
+        "url": "https://www.entekhab.ir",
+        "click_count": 0
+    },
+    {
+        "id": "39",
+        "site_name_en": "Varzesh3",
+        "site_name_fa": "ورزش سه",
+        "category": "Sports",
+        "keywords": [
+            "sports",
+            "varzesh3",
+            "football",
+            "iran"
+        ],
+        "url": "https://www.varzesh3.com",
+        "click_count": 0
+    },
+    {
+        "id": "40",
+        "site_name_en": "Tarafdari",
+        "site_name_fa": "طرفداری",
+        "category": "Sports",
+        "keywords": [
+            "sports",
+            "tarafdari",
+            "football",
+            "community"
+        ],
+        "url": "https://www.tarafdari.com",
+        "click_count": 0
+    },
+    {
+        "id": "41",
+        "site_name_en": "Nobitex",
+        "site_name_fa": "نوبیتکس",
+        "category": "Cryptocurrency Exchange",
+        "keywords": [
+            "crypto",
+            "exchange",
+            "bitcoin",
+            "nobitex"
+        ],
+        "url": "https://www.nobitex.ir",
+        "click_count": 0
+    },
+    {
+        "id": "42",
+        "site_name_en": "Wallex",
+        "site_name_fa": "والکس",
+        "category": "Cryptocurrency Exchange",
+        "keywords": [
+            "crypto",
+            "exchange",
+            "wallex",
+            "iran"
+        ],
+        "url": "https://wallex.ir",
+        "click_count": 0
+    },
+    {
+        "id": "43",
+        "site_name_en": "Irancell",
+        "site_name_fa": "ایرانسل",
+        "category": "Telecom",
+        "keywords": [
+            "mobile",
+            "irancell",
+            "operator",
+            "internet"
+        ],
+        "url": "https://www.irancell.ir",
+        "click_count": 0
+    },
+    {
+        "id": "44",
+        "site_name_en": "MCI (Hamrah-e Aval)",
+        "site_name_fa": "همراه اول",
+        "category": "Telecom",
+        "keywords": [
+            "mobile",
+            "mci",
+            "operator",
+            "hamrah"
+        ],
+        "url": "https://www.mci.ir",
+        "click_count": 0
+    },
+    {
+        "id": "45",
+        "site_name_en": "Rightel",
+        "site_name_fa": "رایتل",
+        "category": "Telecom",
+        "keywords": [
+            "mobile",
+            "rightel",
+            "operator",
+            "internet"
+        ],
+        "url": "https://www.rightel.ir",
+        "click_count": 0
+    },
+    {
+        "id": "46",
+        "site_name_en": "Central Bank of Iran",
+        "site_name_fa": "بانک مرکزی",
+        "category": "Banking",
+        "keywords": [
+            "bank",
+            "central",
+            "cbi",
+            "finance"
+        ],
+        "url": "https://www.cbi.ir",
+        "click_count": 0
+    },
+    {
+        "id": "47",
+        "site_name_en": "National Iranian Oil Company",
+        "site_name_fa": "",
+        "category": "Government",
+        "keywords": [
+            "oil",
+            "nioc",
+            "government",
+            "energy"
+        ],
+        "url": "https://www.nioc.ir",
+        "click_count": 0
+    },
+    {
+        "id": "48",
+        "site_name_en": "Iran Air",
+        "site_name_fa": "هواپیمایی ایران",
+        "category": "مسافرت",
+        "keywords": [
+            "airline",
+            "iranair",
+            "flight",
+            "travel"
+        ],
+        "url": "https://www.iranair.com",
+        "click_count": 0
+    },
+    {
+        "id": "49",
+        "site_name_en": "Shaparak",
+        "site_name_fa": "شاپرک",
+        "category": "Payment Network",
+        "keywords": [
+            "شاپرک",
+            "shaparak",
+            "banking",
+            "pos"
+        ],
+        "url": "https://www.shaparak.ir",
+        "click_count": 1
+    },
+    {
+        "id": "50",
+        "site_name_en": "Adobe",
+        "site_name_fa": "ادوبی",
+        "category": "Software",
+        "keywords": [
+            "adobe",
+            "creative",
+            "pdf",
+            "design"
+        ],
+        "url": "https://www.adobe.com",
+        "click_count": 0
+    },
+    {
+        "id": "51",
+        "site_name_en": "Microsoft",
+        "site_name_fa": "مایکروسافت",
+        "category": "Software",
+        "keywords": [
+            "microsoft",
+            "windows",
+            "azure",
+            "software"
+        ],
+        "url": "https://www.microsoft.com",
+        "click_count": 0
+    },
+    {
+        "id": "52",
+        "site_name_en": "Apple",
+        "site_name_fa": "اپل",
+        "category": "Technology",
+        "keywords": [
+            "apple",
+            "iphone",
+            "mac",
+            "ios"
+        ],
+        "url": "https://www.apple.com",
+        "click_count": 0
+    },
+    {
+        "id": "53",
+        "site_name_en": "Stack Overflow",
+        "site_name_fa": "استک اورفلو",
+        "category": "Developer",
+        "keywords": [
+            "programming",
+            "stackoverflow",
+            "coding",
+            "qa"
+        ],
+        "url": "https://stackoverflow.com",
+        "click_count": 0
+    },
+    {
+        "id": "54",
+        "site_name_en": "GitHub",
+        "site_name_fa": "گیت‌هاب",
+        "category": "Developer",
+        "keywords": [
+            "github",
+            "code",
+            "repository",
+            "git"
+        ],
+        "url": "https://github.com",
+        "click_count": 0
+    }
+]

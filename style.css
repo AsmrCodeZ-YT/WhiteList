@@ -1,0 +1,22 @@
+    /* style.css */
+    window {
+        background-color: #f0f0f0; /* رنگ پس‌زمینه پنجره */
+    }
+
+    button {
+        background-color: #4CAF50; /* سبز */
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: none;
+        font-weight: bold;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+    label {
+        font-size: 1.2em;
+        color: #333;
+    }
